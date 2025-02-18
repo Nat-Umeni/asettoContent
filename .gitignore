@@ -1,0 +1,8 @@
+# Ignore everything
+*
+
+# But don't ignore the following
+!.gitignore
+!content/cars/
+!content/tracks/
+!README.md
